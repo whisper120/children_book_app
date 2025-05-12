@@ -7,15 +7,15 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:1064909801678:android:9b3d5b6e48e17b3b50a89f",
+        "mobilesdk_app_id": "1:1064909801678:android:6f870da0ff8c891b50a89f",
         "android_client_info": {
-          "package_name": "com.example.children_book_app"
+          "package_name": "com.example2.children_book_app"
         }
       },
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyAAe8gfCZcg-VqoM6KjT474VrD5jg0mhCs"
+          "current_key": "AIzaSyCgXqes9xzGb_RtQtd3q0PYDTioufFdbgw"
         }
       ],
       "services": {
