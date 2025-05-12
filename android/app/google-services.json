@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1064909801678",
+    "project_id": "android-app-cf067",
+    "storage_bucket": "android-app-cf067.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1064909801678:android:9b3d5b6e48e17b3b50a89f",
+        "android_client_info": {
+          "package_name": "com.example.children_book_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAe8gfCZcg-VqoM6KjT474VrD5jg0mhCs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
