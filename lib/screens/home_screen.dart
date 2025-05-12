@@ -7,6 +7,8 @@ void main() {
 }
 
 class MyApp extends StatelessWidget {
+  const MyApp({super.key});
+
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
@@ -22,6 +24,8 @@ class HomePage extends StatelessWidget {
     {'label': 'Ages 4-8', 'image': 'assets/ages_4_8.png'},
     {'label': 'Ages 9-12', 'image': 'assets/ages_8_12.png'},
   ];
+
+  HomePage({super.key});
 
   @override
   Widget build(BuildContext context) {
@@ -94,7 +98,7 @@ class AgeButton extends StatelessWidget {
   final String imagePath;
   final bool isPdf;
 
-  const AgeButton({
+  const AgeButton({super.key, 
     required this.label,
     required this.imagePath,
     required this.isPdf,

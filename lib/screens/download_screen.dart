@@ -5,7 +5,7 @@ class DownloadScreen extends StatefulWidget {
   final String ageLabel;
   final String fileType; // 'pdf' or 'word'
 
-  const DownloadScreen({required this.ageLabel, required this.fileType});
+  const DownloadScreen({super.key, required this.ageLabel, required this.fileType});
 
   @override
   State<DownloadScreen> createState() => _DownloadScreenState();
