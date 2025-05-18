@@ -229,21 +229,6 @@ class _DownloadScreenState extends State<DownloadScreen> {
                         },
                       ),
                     ),
-                    Padding(
-                      padding: const EdgeInsets.only(bottom: 16),
-                      child: ElevatedButton(
-                        onPressed: () {
-                          // TODO: Implement file picker and Firebase upload
-                        },
-                        style: ElevatedButton.styleFrom(
-                          backgroundColor: Colors.blue.shade400,
-                        ),
-                        child: const Padding(
-                          padding: EdgeInsets.symmetric(horizontal: 24, vertical: 12),
-                          child: Text('Upload Book'),
-                        ),
-                      ),
-                    ),
                   ],
                 ),
     );
