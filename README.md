@@ -1,6 +1,6 @@
 # 📚 AI Children's Book App
 
-This is a Flutter-based Android application that allows users to **upload and download AI-generated children's books**, complete with text and illustrations. The books are written in **English**, and all content is generated using AI tools as much as possible. The app uses **Firebase** as its backend for storage and downloads.
+This is a Flutter-based Android application that allows users to **download AI-generated children's books**, complete with text and illustrations. The books are written in **English**, and all content is generated using AI tools as much as possible. The app uses **Firebase** as its backend for storage and downloads.
 
 ---
 
@@ -9,7 +9,7 @@ This is a Flutter-based Android application that allows users to **upload and do
 The goal of this app is to model and develop an intuitive mobile interface where:
 - Children's books are generated using AI tools.
 - Each book includes **AI-generated text and images** suitable for children.
-- Users can download and upload books to a central Firebase database.
+- Users can download books to a central Firebase database.
 
 This project is developed as part of a semester assignment in a Flutter course.
 
@@ -30,7 +30,7 @@ This project is developed as part of a semester assignment in a Flutter course.
 ## 🛠️ Technologies Used
 
 - **Flutter** – UI development
-- **Firebase** – Backend (Storage, Firestore, Authentication)
+- **Firebase** – Backend (Storage, Firestore)
 - **Dart** – Programming language
 - **AI Tools** – For generating story text and images
 - **Git & GitHub** – Version control with feature branches
